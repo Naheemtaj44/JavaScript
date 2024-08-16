@@ -102,3 +102,6 @@ console.log(student["totalMark"])
 }
 console.log(typeof profile["fullName"]);
 
+
+
+ 

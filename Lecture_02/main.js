@@ -159,4 +159,5 @@ let mark;
 if(mark >90);{
   console.log("A=",mark);
 }
-else if
+
+
