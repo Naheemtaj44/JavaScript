@@ -144,3 +144,13 @@ let number
   if(number%5===0);{
     console.log("multiple of five",number);
   }
+
+
+   const student={
+    fullNaem : "naeem taj",
+    age :12,
+    mark :401,
+    reigion:"islam",
+
+  
+  }
