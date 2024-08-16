@@ -39,7 +39,7 @@
 // console.log("d % f",d % f);
 // console.log("d ** f",d ** f);
 
-//Assignment operator +=, -=, *=, %=,/=
+// Assignment operator +=, -=, *=, %=,/=
 
 // let a =10;
 //  let b = 2;
@@ -154,3 +154,9 @@ let number
 
   
   }
+let mark;
+  mark = prompt("enter you number");
+if(mark >90);{
+  console.log("A=",mark);
+}
+else if
