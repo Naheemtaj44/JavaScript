@@ -83,14 +83,35 @@
 // for(let i=2; i<=100; i++){
 //     console.log("i=",i++);}
 
-for(let i=2; i<=100; i++){
-    if(i%2===0)
-        console.log("even number=",i);
-    }
+// for(let i=2; i<=100; i++){
+//     if(i%2===0)
+//         console.log("even number=",i);
+//     }
 
-    let gameNum=23;
-   let  userNum=prompt("enter your guess number:");
-while(userNum=gameNum){
-    userNum=prompt("you enter wrong number.: guess again")
-}
-console.log("congratulation!!! you guess the correct number.");
+//     let gameNum=23;
+//    let  userNum=prompt("enter your guess number:");
+// while(userNum!=gameNum){
+//     userNum=prompt("you enter wrong number.: guess again")
+// }
+// console.log("congratulation!!! you guess the correct number.");
+
+
+//string
+// let src="naheem taj";
+// console.log(src[4.8]);
+// src.length
+
+// // template literals
+// let string="i am from balochistan";
+// console.log(string);
+
+// let string1='this is template literal ${1+2+3+4+5+6}';
+// console.log(string1);
+
+// let src="naheemta \n form baklochsistance";
+// console.log(src);
+// console.log(src.length);
+
+let src="naheem taj form balochistance";
+let num= src.toUpperCase();
+console.log(num);
